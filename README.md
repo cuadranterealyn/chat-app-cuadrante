@@ -7,7 +7,7 @@
 4. If the localhost number appear like example: 3000 
 5. Go to browser type localhost:3000
 
-note: (if the source code did not run when you type npm start there is no node-modules . So, Try to install npm install in terminal).
+note: (if the code did not run when you type npm start there is no node-modules . So, Try to install npm install in terminal).
 
 ![chat-app-cuadrante](https://user-images.githubusercontent.com/96381650/208602325-98201861-2ed4-44fb-a3d3-a1c800396d6b.png)
 
